@@ -1,0 +1,2 @@
+root    tree.txt
+lang    fr en

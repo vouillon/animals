@@ -1,0 +1,14 @@
+<TITLE>        Les mammifères
+Mammalia       Mammifères
+Monotremata    Monotrèmes
+Marsupialia    Marsupiaux
+Rodentia       Rongeurs
+Primates       Primates
+Chiroptera     Chiroptères
+Carnivora      Carnivores
+Felidae        Félins
+Canidae        Canidés
+Cetacea        Cétacés
+Ruminantia     Ruminants
+Cervidae       Cervidés
+Bovidae        Bovidés

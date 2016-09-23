@@ -1,0 +1,17 @@
+fetch_image_information
+
+cache
+.image_downloaded
+
+tree.json
+image_info.json
+thumbnails
+images
+hypertree.js
+
+*.cm[ixo]
+*.byte
+*.o
+
+*~
+*-

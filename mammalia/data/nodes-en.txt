@@ -1,0 +1,14 @@
+<TITLE>        Mammals
+Mammalia       Mammals
+Monotremata    Monotremes
+Marsupialia    Marsupials
+Rodentia       Rodents
+Primates       Primates
+Chiroptera     Bats
+Carnivora      Carnivorans
+Felidae        Felids
+Canidae        Canids
+Cetacea        Cetaceans
+Ruminantia     Ruminants
+Cervidae       Deer
+Bovidae        Bovids

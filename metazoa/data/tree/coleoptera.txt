@@ -1,0 +1,799 @@
+Coleoptera
+  Myxophaga paraphylétique
+    Lepiceridae
+    -
+      -
+        Hydroscaphidae
+        Torridincolidae
+      -
+        Sphaeriusidae
+        Archostemata
+          Ommatidae
+          -
+            Cupedidae
+              |tenomerga
+            -
+              Jurodidae
+              -
+                Micromalthidae
+                Crowsoniellidae
+  Neocoleoptera
+    Adephaga
+      Hydradephaga
+        -
+          Gyrinidae
+            |gyrinus
+          -
+            Haliplidae
+            -
+              Meruidae
+              Noteridae
+        -
+          -
+            Aspidytidae
+            Pelobiidae ou Hygrobiidae
+          Dytiscidae paraphylétique
+            -
+              Dytiscinae
+                |dytiscus
+              Laccophilinae
+            -
+              Copelatinae
+              -
+                -
+                  Lancetinae
+                  Coptotominae
+                -
+                  Colymbetinae
+                  -
+                    Agabinae
+                    -
+                      Hydroporinae
+                      Amphizoidae
+      Caraboidea
+        Apotominae
+        Broscinae
+        Cicindini
+        Hiletini
+        Melaeninae
+        Nebriinae
+        Nototylini
+        Promecognathinae
+        Psydrinae
+        -
+          Elaphrinae
+            |elaphrus
+          -
+            Trachypachidae
+            -
+              Siagoninae
+              Brachininae
+                |brachinus
+        -
+          -
+            Gehringiinae
+            -
+              Omophroninae
+              Scaritinae
+                |scarites
+          -
+            Trechinae
+            -
+              Carabinae
+                |carabus
+              -
+                -
+                  Loricerinae
+                    |loricera
+                  -
+                    Cicindelinae
+                      |cicindela
+                    -
+                      Migadopinae
+                      Rhysodinae
+                -
+                  Paussinae
+                  Harpalinae
+                    |mormolyce
+                    |amara
+    Polyphaga
+      -
+        Decliniidae
+        Scirtidae
+      -
+        Derodontidae
+        -
+          -
+            Clambidae
+            Eucinetidae
+          -
+            -
+              Scydmaenidae
+                |scydmaenus
+              Histeroidea
+                Synteliidae
+                -
+                  Sphaeritidae
+                  Histeridae
+                    |hister
+            -
+              Nosodendridae
+              -
+                -
+                  Hydraenidae
+                  Ptiliidae
+                -
+                  Leiodidae paraphylétique
+                    Coloninae
+                    Platypsyllinae
+                    -
+                      Camiarinae
+                      Agyrtidae
+                    Cholevinae paraphylétique
+                      |leptodirus
+                      -
+                        Catopocerinae
+                        Leiodinae
+                  -
+                    Scarabaeoidea
+                      Scarabaeidae paraphylétique
+                        Pachypodinae (Scarabaeidae)
+                        Allidiostomatinae (Scarabaeidae)
+                        Dynamopodinae (Scarabaeidae)
+                        Aclopinae (Scarabaeidae)
+                        Euchirinae (Scarabaeidae)
+                        Phaenomeridinae (Scarabaeidae)
+                        -
+                          -
+                            Glaphyridae
+                            Ochodaeidae
+                          -
+                            Cetoniinae (Scarabaeidae)
+                              |cetonia
+                            -
+                              Orphninae (Scarabaeidae)
+                              -
+                                Melolonthinae (Scarabaeidae)
+                                  |melolontha
+                                -
+                                  Rutelinae (Scarabaeidae)
+                                  Dynastinae (Scarabaeidae)
+                                    |oryctes
+                                    |dynastes
+                        -
+                          Aphodiinae (Scarabaeidae)
+                          -
+                            Hybosoridae
+                              |hybosorus
+                            -
+                              Glaresidae
+                              Scarabaeinae (Scarabaeidae)
+                                |scarabaeus
+                                |copris
+                      -
+                        -
+                          Trogidae
+                          Passalidae
+                            |odontotaenius
+                        -
+                          Geotrupidae
+                            |geotrupes
+                          -
+                            -
+                              Pleocomidae
+                                |pleocoma
+                              Bolboceratidae
+                            -
+                              Ceratocanthidae
+                              -
+                                Diphyllostomatidae
+                                Lucanidae
+                                  |lucanus
+                    -
+                      -
+                        Staphyliniformia
+                          Hydrophiloidea
+                            Horelophinae (Hydrophilidae)
+                            Horelophopsinae (Hydrophilidae)
+                            Hydrophilinae (Hydrophilidae)
+                              |hydrophilus
+                            -
+                              -
+                                Georissidae
+                                -
+                                  Epimetopidae
+                                  -
+                                    Spercheidae
+                                    Hydrochidae
+                              -
+                                Helophoridae
+                                  |helophorus
+                                Sphaeridiinae (Hydrophilidae)
+                          Staphylinoidea ou Staphylinidae paraphylétique
+                            Empelinae
+                            -
+                              Neophoninae
+                              -
+                                Dasycerinae
+                                -
+                                  Protopselaphinae
+                                  Pselaphinae
+                            Microsilphinae
+                            Apateticinae
+                            Trigonurinae
+                            Solieriinae
+                            Leptotyphlinae
+                            Olisthaerinae
+                            Trichophyinae
+                            Scaphidiinae
+                              |scaphidium
+                            -
+                              -
+                                Habrocerinae
+                                Paederinae
+                                  |paederus
+                              -
+                                -
+                                  Micropeplinae
+                                  -
+                                    Silphidae
+                                      |oiceoptoma
+                                    Tachyporinae
+                                      |tachyporus
+                                -
+                                  -
+                                    -
+                                      Piestinae
+                                      -
+                                        Oxyporinae
+                                        Steninae
+                                    Euaesthetinae
+                                  -
+                                    -
+                                      -
+                                        Phloeocharinae
+                                        Pseudopsinae
+                                      Staphylininae
+                                        |ontholestes
+                                    -
+                                      -
+                                        Glypholomatinae
+                                        Omaliinae
+                                      -
+                                        -
+                                          Oxytelinae
+                                          Osoriinae
+                                        -
+                                          Megalopsidiinae
+                                          -
+                                            Proteininae
+                                            Aleocharinae
+                        -
+                          Bostrichiformia
+                            Dermestidae
+                              |anthrenus
+                            Bostrichoidea
+                              Endecatomidae
+                              Jacobsoniidae
+                              -
+                                Ptininae (Ptinidae)
+                                  |niptus
+                                Gibbiinae (Ptinidae)
+                              -
+                                -
+                                  Anobiinae (Anobiidae)
+                                    |anobium
+                                  -
+                                    -
+                                      Xyletininae (Anobiidae)
+                                      Dorcatominae (Anobiidae)
+                                    -
+                                      Ptilininae (Anobiidae)
+                                      Mesocoelopodinae (Anobiidae)
+                                -
+                                  Dysidinae (Bostrichidae)
+                                  Polycaoninae (Bostrichidae)
+                                  Psoinae (Bostrichidae)
+                                  Euderiinae (Bostrichidae)
+                                  Lyctinae (Bostrichidae)
+                                  -
+                                    Dryophilinae (Anobiidae)
+                                    -
+                                      Dinoderinae (Bostrichidae)
+                                      Bostrichinae (Bostrichidae)
+                                        |bostrichus
+                          Elateriformia
+                            -
+                              Byrrhidae
+                              -
+                                Dascilloidea
+                                  Rhipiceridae
+                                    |rhipicera
+                                  Dascillidae
+                                    |dascillus
+                                Elateroidea
+                                  Rhinorhipidae
+                                  Brachypsectridae
+                                  Artematopidae
+                                  Podabrocephalidae
+                                  -
+                                    Plastoceridae
+                                    -
+                                      Telegeusidae
+                                      Omethidae
+                                    -
+                                      -
+                                        Eucnemidae
+                                        Throscidae
+                                        Cerophytidae
+                                      -
+                                        -
+                                          Omalisidae
+                                            |omalisus
+                                          -
+                                            Cantharidae
+                                              |chauliognathus
+                                            -
+                                              Lampyridae
+                                                |lampyridae
+                                                |lampyridae_larva
+                                              Lycidae
+                                                |metriorrhynchus
+                                        Elateridae paraphylétique
+                                          Eudicronychinae
+                                          Hemiopinae
+                                          Melanotinae
+                                          Morostominae
+                                          Negastriinae
+                                          Oxynopterinae
+                                          Physodactylinae
+                                          Pityobiinae
+                                          Semiotinae
+                                          Subprotelaterinae
+                                          Denticollinae
+                                          -
+                                            -
+                                              Rhagophthalmidae
+                                              -
+                                                Cebrioninae (Elateridae)
+                                                Elaterinae (Elateridae)
+                                            -
+                                              -
+                                                -
+                                                  Phengodidae
+                                                  Cardiophorinae (Elateridae)
+                                                -
+                                                  Thylacosterninae (Elateridae)
+                                                  Lissominae (Elateridae)
+                                              -
+                                                Drilidae
+                                                  |drilus
+                                                  |drilus_larva
+                                                Agrypninae (Elateridae)
+                                                  |alaus
+                            -
+                              Dryopoidea
+                                Heteroceridae
+                                -
+                                  -
+                                    -
+                                      Dryopidae
+                                        |dryops
+                                      Lutrochidae
+                                    Limnichidae
+                                  -
+                                    Cneoglossidae
+                                    -
+                                      Eulichadidae
+                                      Psephenidae
+                                    -
+                                      -
+                                        Larainae (Elmidae)
+                                        -
+                                          Elminae (Elmidae)
+                                          Chelonariidae
+                                      -
+                                        Ptilodactylinae (Ptilodactylidae)
+                                        -
+                                          Cladotominae (Ptilodactylidae)
+                                          Callirhipidae
+                              Buprestidae
+                                |buprestis
+                                |buprestidae
+                      Cucujiformia
+                        -
+                          -
+                            série silvanide
+                              Silvanidae
+                                |uleiota
+                              Phloeostichidae
+                            Curculionoidea
+                              Eurhynchidae (Brentidae)
+                              Raymondionymidae (Curculionidae)
+                              Belidae
+                                |rhinotia
+                              -
+                                -
+                                  -
+                                    Doydirhynchinae (Nemonychidae)
+                                      |doydirhynchus
+                                    Attelabidae
+                                      |apoderus
+                                  -
+                                    Rhinorhynchinae (Nemonychidae)
+                                    Anthribidae
+                                      |platystomos
+                                -
+                                  -
+                                    Scolytinae (Curculionidae)
+                                    Cyladinae (Brentidae)
+                                  -
+                                    Antliarhininae
+                                    Microcerinae (Brentidae)
+                                    Taphroderinae
+                                    Trachelizinae
+                                    Brentinae (Brentidae)
+                                      |lasiorhyncus
+                                    -
+                                      Amycterinae (Curculionidae)
+                                      Aterpinae (Curculionidae)
+                                      Bagoinae (Curculionidae)
+                                      Baridinae (Curculionidae)
+                                      Ceutorhynchinae (Curculionidae)
+                                      Cioninae (Curculionidae)
+                                      Cleoninae (Curculionidae)
+                                      Conoderinae (Curculionidae)
+                                      Cryptorhynchinae (Curculionidae)
+                                      Cyclominae (Curculionidae)
+                                      Entiminae (Curculionidae)
+                                      Erirhininae (Curculionidae)
+                                      Eugnominae (Curculionidae)
+                                      Gonipterinae (Curculionidae)
+                                      Hyperinae (Curculionidae)
+                                      Leptopiinae (Curculionidae)
+                                      Lixinae (Curculionidae)
+                                        |larinus
+                                      Magdalinae (Curculionidae)
+                                      Molytinae (Curculionidae)
+                                      Ocladiinae (Curculionidae)
+                                      Orobitidinae (Curculionidae)
+                                      Polydrosinae
+                                      Raymondionyminae (Curculionidae)
+                                      Rhynchaeninae
+                                      Rhytirhininae
+                                      Tychiinae
+                                      -
+                                        Apioninae (Brentidae)
+                                          |rhopalapion
+                                        -
+                                          Brachycerinae (Curculionidae)
+                                          -
+                                            Nanophyinae (Brentidae)
+                                            Ithyceridae (Brentidae)
+                                      -
+                                        Caridae
+                                        -
+                                          Dryophthorinae (Curculionidae)
+                                          -
+                                            -
+                                              Platypodinae (Curculionidae)
+                                              Cossoninae (Curculionidae)
+                                            Curculioninae (Curculionidae)
+                                              |furcipus
+                          -
+                            Agapythidae
+                            Boganiidae
+                            Brachypteridae
+                            Cavognathidae
+                            Cyclaxyridae
+                            Hobartiidae
+                            Lamingtoniidae
+                            Myraboliidae
+                            Smicripidae
+                            Thasmosalpingidae
+                            -
+                              série cucujide
+                                -
+                                  Cucujidae
+                                    |cucujus
+                                  Passandridae
+                                -
+                                  Cryptophagidae
+                                    Cryptophagus
+                                    -
+                                      Telmatophilus
+                                      Atomariinae (Cryptophagidae)
+                                  -
+                                    Phalacridae
+                                    -
+                                      Propalticidae
+                                      Laemophloeidae
+                              -
+                                Nitidulidae
+                                  |glischrochilus
+                                série érotylide
+                                  -
+                                    -
+                                      Protocucujidae
+                                      Helotidae
+                                    -
+                                      Rhizophagus (Monotomidae)
+                                      -
+                                        Monotominae (Monotomidae)
+                                        Monotomopsis (Monotomidae)
+                                  -
+                                    Erotylinae (Erotylidae)
+                                    -
+                                      -
+                                        Toraminae (Erotylidae)
+                                        -
+                                          Cryptophilinae (Erotylidae)
+                                          Tritominae (Erotylidae)
+                                      -
+                                        -
+                                          Dacninae (Erotylidae)
+                                          Encaustinae (Erotylidae)
+                                        -
+                                          Megalodacninae (Erotylidae)
+                                            |megalodacne
+                                          -
+                                            Languriinae (Erotylidae)
+                                              |acropteroxys
+                                            Xenoscelinae (Erotylidae)
+                            Chrysomeloidea
+                              Anoplodermatinae
+                              Aseminae
+                              -
+                                Parandrinae
+                                -
+                                  -
+                                    Cerambycinae
+                                    Lamiinae
+                                      Acanthoderini
+                                      Crossotini
+                                      Phytoeciini
+                                  Prioninae
+                                    Aegosomatini
+                                    Macrotomini
+                                    Platygnathini
+                                    Prionini
+                                    Xixuthrini
+                              -
+                                -
+                                  -
+                                    Lepturinae
+                                      Lepturini
+                                      Rhamnusiini
+                                    -
+                                      Necydalinae
+                                      Disteniinae
+                                  -
+                                    -
+                                      Orsodacninae
+                                      -
+                                        Zeugophorinae
+                                        Spondylinae
+                                    -
+                                      Vesperinae
+                                      -
+                                        Megalopodinae ou Palophaginae
+                                        Aulacoscelidinae
+                                Chrysomelidae
+                                  Halticinae
+                                  Chlamisinae
+                                  Clytrinae
+                                  Spilopyrinae
+                                  -
+                                    -
+                                      Criocerinae
+                                        |oulema
+                                      Donaciinae
+                                    Bruchinae
+                                  -
+                                    -
+                                      Cassidinae
+                                      Hispinae
+                                    -
+                                      Sagrinae
+                                      -
+                                        -
+                                          Lamprosomatinae
+                                          -
+                                            Cryptocephalinae
+                                            Eumolpinae
+                                        -
+                                          Galerucinae
+                                            |altica
+                                          Chrysomelinae
+                                            |clytra
+                        -
+                          -
+                            Cleroidea
+                              -
+                                Phloiophilidae
+                                -
+                                  Biphyllidae
+                                  Byturidae
+                                    |byturus
+                              -
+                                Trogossitinae (Trogossitidae)
+                                  |temnochila
+                                -
+                                  -
+                                    Peltinae (Trogossitidae)
+                                    Lophocaterinae (Trogossitidae)
+                                  -
+                                    Melyridae
+                                      |anthocomus
+                                    Cleridae
+                                      |thanasimus
+                            série cérylonide
+                              -
+                                Anommatinae (Bothrideridae)
+                                Murmidiinae (Cerylonidae)
+                                Metaceryloninae
+                                Ostomopsinae (Cerylonidae)
+                                Ceryloninae (Cerylonidae)
+                                -
+                                  Discolomatidae
+                                  -
+                                    Bothriderinae (Bothrideridae)
+                                    -
+                                      Anommatinae (Bothrideridae)
+                                      Teredinae (Bothrideridae)
+                                    -
+                                      Xylariophilinae (Bothrideridae)
+                                      Euxestinae (Cerylonidae)
+                              -
+                                -
+                                  Lathridiidae
+                                  -
+                                    Leiesthinae (Endomychidae)
+                                    -
+                                      Holoparamecinae (Endomychidae)
+                                      Corylophidae
+                                -
+                                  -
+                                    Lycoperdininae (Endomychidae)
+                                    Endomychinae (Endomychidae)
+                                  -
+                                    -
+                                      Anamorphinae (Endomychidae)
+                                      Alexiidae
+                                    Coccinellidae
+                                      Ortaliinae
+                                      Sticholotidinae
+                                      -
+                                        Coccinellinae
+                                          |coccinella
+                                          |coccinella_larva
+                                        -
+                                          Epilachninae
+                                            |subcoccinella
+                                          -
+                                            Coccidulinae
+                                              |coccidula
+                                            -
+                                              Chilocorinae
+                                                |melaleuca
+                                                |chilocorus
+                                              Scymninae
+                                                |clitostethus
+                                                |cryptolaemus
+                          -
+                            Sphindidae
+                            -
+                              Lymexylinae
+                              Tenebrionoidea
+                                -
+                                  Archeocrypticidae
+                                  Pterogeniidae
+                                Chalcodryidae
+                                Mycteridae
+                                  |mycterus
+                                Perimylopidae
+                                Prostomidae
+                                Synchroidae
+                                Trachelostenidae
+                                Ulodidae
+                                -
+                                  -
+                                    Mordellidae
+                                      |mordellidae
+                                    -
+                                      Melittommatinae
+                                      Hylecoetinae
+                                        |hylecoetus
+                                  Rhipiphoridae
+                                    |rhipiphorus
+                                -
+                                  -
+                                    Ciidae
+                                    Anthicidae paraphylétique
+                                      Copobaeninae
+                                      Lemodinae
+                                      Macratriinae
+                                      Notoxinae
+                                      Steropinae
+                                      Tomoderinae
+                                      Eurygeniinae
+                                      -
+                                        Anthicinae
+                                        Meloidae
+                                          |meloe
+                                  -
+                                    Tenebrionidae en partie
+                                      Cossyphodinae (Tenebrionidae)
+                                      Nilioninae (Tenebrionidae)
+                                      Stenochiinae (Tenebrionidae)
+                                      Zolodininae (Tenebrionidae)
+                                      -
+                                        -
+                                          Coelometopinae (Tenebrionidae)
+                                          Alleculinae
+                                            |cteniopus
+                                        -
+                                          Phrenapatinae
+                                          Diaperinae
+                                      Tenebrioninae
+                                        |blaps
+                                    -
+                                      -
+                                        -
+                                          -
+                                            Othniinae (Salpingidae)
+                                            Oedemeridae
+                                              |oedemera
+                                          Colydiidae
+                                        -
+                                          Pythidae
+                                            Pythinae
+                                              |pytho
+                                            Pilipalpinae (Pyrochroidae)
+                                          -
+                                            -
+                                              Anaspidinae (Scraptiidae)
+                                              -
+                                                Scraptiinae (Scraptiidae)
+                                                Osphyinae (Osphyinae)
+                                            -
+                                              -
+                                                Boridae
+                                                Trictenotomidae
+                                                  |autocrates
+                                              -
+                                                -
+                                                  -
+                                                    Perimylopidae
+                                                    -
+                                                      Tetratominae(Tetratomidae)
+                                                      Hallomeninae(Tetratomidae)
+                                                  -
+                                                    Hypulinae
+                                                    -
+                                                      Penthinae (Tetratomidae)
+                                                      Melandryinae(Melandryidae)
+                                                -
+                                                  Salpingidae en partie
+                                      -
+                                        -
+                                          Eustrophinae (Tetratomidae)
+                                          -
+                                            Agnathinae (Pyrochroidae)
+                                            -
+                                              Monommatidae
+                                              Zopheridae
+                                        -
+                                          -
+                                            -
+                                              Mycetophagidae
+                                              -
+                                                Trogocryptinae
+                                                Prostominiinae (Salpingidae)
+                                            -
+                                              Stenotrachelidae
+                                                |cephaloon
+                                              Lagriinae (Tenebrionidae)
+                                                |lagria
+                                          Pimeliinae (Tenebrionidae)
+                                            |pimelia

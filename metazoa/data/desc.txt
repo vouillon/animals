@@ -1,0 +1,2 @@
+root    tree/metazoa.txt
+lang    fr en

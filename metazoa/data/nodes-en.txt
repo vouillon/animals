@@ -1,0 +1,101 @@
+<TITLE>        A Tree of Animals
+Amphibia       Amphibians
+Annelida       Annelids
+Lumbricina     Earthworms
+Hirudinea      Leeches
+Arthropoda     Arthropods
+Xiphosura      Horseshoe crabs
+Arachnida      Arachnids
+Acari          Acarines
+Ixodida        Ticks
+Araneae        Spiders
+Scorpiones     Scorpions
+Opiliones      Harvestmen
+Myriapoda      Myriapods
+Cirripedia     Barnacles
+Collembola     Springtails
+Aves           Birds
+Galliformes    Gallinaceous birds
+Passeriformes  Passerines
+Strigiformes   Owls
+Bilateria      Bilaterias
+Bivalvia       Bivalves
+Chordata       Chordates
+Urochordata    Tunicates
+Vertebrata     Vertebrates
+Hyperoartia    Lampreys
+Elasmobranchii Sharks
+Rajiformes     Rays
+Osteichthyes   Bony fishes
+Acipenseridae  Sturgeons
+Latimeriidae   Coelacanths
+Dipnoi         Lungfishes
+Tetrapoda      Tetrapods
+Amniota        Amniotes
+Testudines     Turtles
+Chelonioidea   Sea turtules
+Squamata       Scaled reptiles
+Serpentes      Snakes
+Pythonidae     Pythons
+Crocodilia     Crocodilians
+Cnidaria       Cnidarians
+Scleractinia   Stony corals
+Actiniaria     Sea anemones
+Scyphozoa      Jellyfishes
+Gorgonacea     Gorgonians
+Ctenophora     Comb jellies
+Mantodea       Praying mantises
+Blattaria      Cockroaches
+Isoptera       Termites
+Echinodermata  Echinoderms
+Crinoidea      Crinoids
+Ophiuroidea    Brittle stars
+Asteroidea     Starfishes
+Holothuroidea  Sea cucumbers
+Echinoidea     Urchins
+Gastropoda     Gastropods
+Nudibranchia   Nudibranchs
+Insecta        Insects
+Ephemeroptera  Mayflies
+Phasmatodea    Phasmids
+Euphausiacea   Krill
+Paguroidea     Hermit crabs
+Brachyura      Crabs
+Oniscidea      Woodlouses
+Mammalia       Mammals
+Monotremata    Monotremes
+Marsupialia    Marsupials
+Elephantidae   Elephants
+Cingulata      Armadillos
+Folivora       Sloths
+Vermilingua    Anteaters
+Rodentia       Rodents
+Primates       Primates
+Chiroptera     Bats
+Carnivora      Carnivorans
+Felidae        Felids
+Canidae        Canids
+Cetacea        Cetaceans
+Ruminantia     Ruminants
+Cervidae       Deer
+Bovidae        Bovids
+Metazoa        Animals
+Mollusca       Molluscs
+Cephalopoda    Cephalopods
+Octopodidae    Octopuses
+Zygoptera      Damselflies
+Epiproctophora Dragonflies
+Grylloidea     Crickets
+Tettigoniidae  Bush-crickets
+Caelifera      Grasshoppers
+Plathelminthes Flatworms
+Porifera       Sponges
+Lepidoptera    Butterflies
+Hymenoptera    Hymenopterans
+Formicidae     Ants
+Diptera        Flies
+Coleoptera     Beetles
+Coccinellidae  Ladybirds
+Curculionoidea Weevils
+Scarabaeoidea  Scarabs
+Caraboidea     Carabes

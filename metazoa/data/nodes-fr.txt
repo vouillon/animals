@@ -1,0 +1,102 @@
+<TITLE>        Arbre des animaux
+Amphibia       Amphibiens
+Annelida       Annélides
+Lumbricina     Vers de terre
+Hirudinea      Sangsues
+Arthropoda     Arthropodes
+Xiphosura      Limule
+Arachnida      Arachnides
+Acari          Acariens
+Ixodida        Tiques
+Araneae        Araignées
+Mygalomorphae  Mygales
+Scorpiones     Scorpions
+Opiliones      Faucheux
+Myriapoda      Myriapodes
+Balanomorpha   Balanes
+Collembola     Collemboles
+Aves           Oiseaux
+Galliformes    Gallinacés
+Passeriformes  Passeraux
+Strigiformes   Rapaces nocturnes
+Bilateria      Bilatériens
+Bivalvia       Bivalves
+Chordata       Chordés
+Urochordata    Tuniciers
+Vertebrata     Vertébrés
+Hyperoartia    Lamproies
+Elasmobranchii Requins
+Rajiformes     Raies
+Osteichthyes   Poissons osseux
+Acipenseridae  Esturgeons
+Latimeriidae   Cœlacanthe
+Dipnoi         Dipneustes
+Tetrapoda      Tétrapodes
+Amniota        Amniotes
+Testudines     Tortues
+Chelonioidea   Tortues marines
+Squamata       Squamates
+Serpentes      Serpents
+Pythonidae     Pythons
+Crocodilia     Crocodiliens
+Cnidaria       Cnidaires
+Scleractinia   Coraux durs
+Actiniaria     Anémones de mer
+Scyphozoa      Méduses
+Gorgonacea     Gorgones
+Ctenophora     Cténaires
+Mantodea       Mantes religieuses
+Blattaria      Blattes
+Isoptera       Termites
+Echinodermata  Échinodermes
+Crinoidea      Crinoïdes
+Ophiuroidea    Ophiures
+Asteroidea     Étoiles de mer
+Holothuroidea  Concombres de mer
+Echinoidea     Oursins
+Gastropoda     Gastéropodes
+Nudibranchia   Nudibranches
+Heteroptera    Punaises
+Insecta        Insectes
+Ephemeroptera  Éphémères
+Phasmatodea    Phasmes
+Euphausiacea   Krill
+Paguroidea     Bernards l'ermite
+Brachyura      Crabes
+Oniscidea      Cloportes
+Mammalia       Mammifères
+Monotremata    Monotrèmes
+Marsupialia    Marsupiaux
+Elephantidae   Éléphants
+Cingulata      Tatous
+Folivora       Paresseux
+Vermilingua    Fourmiliers
+Rodentia       Rongeurs
+Primates       Primates
+Chiroptera     Chiroptères
+Carnivora      Carnivores
+Felidae        Félins
+Canidae        Canidés
+Cetacea        Cétacés
+Ruminantia     Ruminants
+Cervidae       Cervidés
+Bovidae        Bovidés
+Metazoa        Animaux
+Mollusca       Mollusques
+Cephalopoda    Céphalopodes
+Octopodidae    Pieuvres
+Odonata        Libellules
+Grylloidea     Grillons
+Tettigoniidae  Sauterelles
+Caelifera      Criquets
+Plathelminthes Vers plats
+Porifera       Éponges
+Lepidoptera    Papillons
+Hymenoptera    Hyménoptères
+Formicidae     Fourmis
+Diptera        Diptères
+Coleoptera     Coléoptères
+Coccinellidae  Coccinelles
+Curculionoidea Charançons
+Scarabaeoidea  Scarabées
+Caraboidea     Carabes

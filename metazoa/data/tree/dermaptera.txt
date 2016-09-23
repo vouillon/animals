@@ -1,0 +1,19 @@
+Dermaptera
+  Hemimeridae
+  -
+    Pygidicranidae
+    Eudermaptera
+      -
+        Carcinophoridae
+        -
+          Arixeniidae
+          Labiidae
+      Forficuloidea
+        -
+          Apachyidae
+          Labiduridae
+            |labidura
+        -
+          Chelisochidae
+          Forficulidae
+            |forficula

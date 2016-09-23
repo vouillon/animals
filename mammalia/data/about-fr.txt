@@ -1,0 +1,19 @@
+<h1>Un arbre des animaux</h1>
+
+Cet <a target="_blank"
+href="http://fr.wikipedia.org/wiki/Arbre_phylog%C3%A9n%C3%A9tique">
+arbre <em>phylogénétique</em></a> représente les liens de parenté
+entre animaux.
+
+<h2>Utilisation</h2>
+
+Parcourez l'arbre en le faisant glisser avec la souris.  Cliquez
+sur une image pour l'afficher en grand.
+
+<h2>Crédits</h2>
+
+Ce logiciel et les images qu'il utilise sont sous des licences libres.
+Les images proviennent de <a target="_blank"
+href="http://commons.wikimedia.org/wiki/Main_Page?uselang=fr">Wikimedia
+Commons</a>.  Vous pouvez cliquer sur chaque image pour plus de
+détails. Le logiciel a été écrit par Jérôme Vouillon (CNRS).

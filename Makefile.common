@@ -1,0 +1,41 @@
+
+IMAGE_CACHE=$(CACHE)/image
+
+NAMES=$(shell cat $(TREE) | grep "^ *|" | cut -d '|' -f 2-)
+
+THUMBNAILS= $(patsubst %,$(THUMBNAIL_PATH)/%.jpg,$(NAMES))
+
+ifdef HAS_IMAGES
+IMAGES= $(patsubst %,$(IMAGE_PATH)/%.jpg,$(NAMES))
+else
+IMAGES=
+IMAGE_PATH=/no/image
+endif
+
+all: .image_downloaded tree.json image_info.json
+
+.image_downloaded: $(IMAGE_REFS)
+	mkdir -p $(IMAGE_CACHE)
+	../tools/download.ml $(IMAGE_REFS) $(IMAGE_CACHE)
+	touch .image_downloaded
+
+$(THUMBNAIL_PATH) $(IMAGE_PATH): .image_downloaded
+	mkdir $@
+
+$(THUMBNAIL_PATH)/%.jpg: $(IMAGE_CACHE)/%.jpg | $(THUMBNAIL_PATH)
+	convert  $< -thumbnail $(THUMBNAIL_SIZE) -quality 85 $@
+$(THUMBNAIL_PATH)/%.jpg: $(IMAGE_CACHE)/%.png | $(THUMBNAIL_PATH)
+	convert  $< -thumbnail $(THUMBNAIL_SIZE) -quality 85 $@
+
+$(IMAGE_PATH)/%.jpg: $(IMAGE_CACHE)/%.jpg | $(IMAGE_PATH)
+	convert  $< -thumbnail "1280x800>" $@
+$(IMAGE_PATH)/%.jpg: $(IMAGE_CACHE)/%.png | $(IMAGE_PATH)
+	convert  $< -thumbnail "1280x800>" $@
+
+tree.json: $(TREE) $(THUMBNAILS) $(DATA)/about-*.txt $(DATA)/nodes-*.txt
+	../tools/json_tree.ml $(DESC) > $@.tmp
+	mv $@.tmp $@
+
+image_info.json: $(IMAGES)
+	mkdir -p $(CACHE)/html $(CACHE)/thumbnail $(CACHE)/usage
+	echo $(NAMES) | ../tools/fetch_image_information $(IMAGE_REFS) $(CACHE) $(IMAGE_PATH) $@

@@ -1,0 +1,26 @@
+<h1>A Tree of Animals</h1>
+
+This <a target="_blank"
+href="http://en.wikipedia.org/wiki/Phylogenetic_tree">
+<em>phylogenetic</em> tree</a> displays the relationships among
+animals.
+
+<h2>Usage</h2>
+
+Browse the tree by dragging it with the mouse. Click on any image to
+display a larger version.
+
+<h2>Credits</h2>
+
+This software and the images it uses are under free licenses.  Images
+are from <a target="_blank"
+href="http://commons.wikimedia.org/wiki/Main_Page">Wikimedia
+Commons</a>.  You can click on each image for details.  The software
+has been written by Jérôme Vouillon (CNRS).
+Its source code is distributed with the <a
+href="http://ocsigen.org/js_of_ocaml/">Js_of_ocaml compiler</a>.
+
+<h2>Contacts</h2>
+
+<a href="mailto:jerome.vouillon@gmail.com">Comments and
+suggestions</a> are welcome.
